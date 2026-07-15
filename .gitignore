@@ -7,9 +7,6 @@
 *.pyc
 __pycache__/
 local_settings.py
-db.sqlite3
-db.sqlite3-diario
-medios de comunicación
 
 # Si tu proceso de compilación incluye la ejecución de collectstatic, entonces probablemente no necesites ni quieras incluir staticfiles/
 # en tu repositorio Git. Actualiza y descomenta la siguiente línea según corresponda.
